@@ -1,0 +1,76 @@
+{
+  "request" : [
+    {
+      "useCaseIdentifier": "useCase1",
+      "frameId": 410,
+      "busId": 356,
+      "signalName": "Querbeschleunigung Schwerpunkt"
+    },
+    {
+      "useCaseIdentifier": "useCase1",
+      "frameId": 217,
+      "busId": 356,
+      "signalName": "Winkel Fahrpedal"
+    },
+    {
+      "useCaseIdentifier": "useCase1",
+      "frameId": 239,
+      "busId": 356,
+      "signalName": "Ist Bremsmoment Summe"
+    },
+    {
+      "useCaseIdentifier": "useCase1",
+      "frameId": 769,
+      "busId": 356,
+      "signalName": "Ist Lenkwinkel Fahrer"
+    },
+    {
+      "useCaseIdentifier": "useCase1",
+      "frameId": 243,
+      "busId": 356,
+      "signalName": "Anzeige Drehzahl Antriebsstrang"
+    },
+    {
+      "useCaseIdentifier": "useCase1",
+      "frameId": 770,
+      "busId": 356,
+      "signalName": "Lenkwinkel Vorderachse Effektiv"
+    },
+    {
+      "useCaseIdentifier": "useCase1",
+      "frameId": 165,
+      "busId": 356,
+      "signalName": "Drehmoment Kurbelwelle 1"
+    },
+    {
+      "useCaseIdentifier": "useCase1",
+      "frameId": 194,
+      "busId": 356,
+      "signalName": "Drehmoment Kurbelwelle 4"
+    },
+    {
+      "useCaseIdentifier": "useCase1",
+      "frameId": 415,
+      "busId": 356,
+      "signalName": "Giergeschwindigkeit Fahrzeug"
+    },
+    {
+      "useCaseIdentifier": "useCase1",
+      "frameId": 417,
+      "busId": 356,
+      "signalName": "Geschwindigkeit Fahrzeug"
+    },
+    {
+      "useCaseIdentifier": "useCase1",
+      "frameId": 143,
+      "busId": 356,
+      "signalName": "Radmoment Antrieb 1"
+    },
+    {
+      "useCaseIdentifier": "useCase1",
+      "frameId": 409,
+      "busId": 356,
+      "signalName": "Längsbeschleunigung Schwerpunkt"
+    }
+  ]
+}
