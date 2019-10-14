@@ -58,7 +58,7 @@
       "useCaseIdentifier": "useCase1",
       "frameId": 417,
       "busId": 356,
-      "signalName": "Geschwindigkeit Fahrzeug"
+      "signalName": "V_VEH_COG"
     },
     {
       "useCaseIdentifier": "useCase1",

@@ -75,7 +75,7 @@ class Model():
             self.load_model_and_discretized_rule(directory_path)
 
         current_timestamp = jsonDataList[0]['timestamp']
-        current_delta_time_normalized = self.normalize_delta_time(jsonDataList[0]['delta_time'])
+        current_delta_time_normalized = self.normalize_delta_time(jsonDataList[0]['delta_time_diff'])
         for jsonData in jsonDataList:
             current_signal_short_name = jsonData['signalShortName']
             current_interpreted_signal_double = jsonData['interpretedSignalDouble']
